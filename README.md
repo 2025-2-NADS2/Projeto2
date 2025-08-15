@@ -10,7 +10,7 @@
 <b>3GJ</b>
 ## Integrantes: <a href="https://www.linkedin.com/in/gabriel-melego-julio-85b83a307/">Gabriel Melego Julio</a>, <a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="https://www.linkedin.com/in/gustavobitencourts/">Gustavo Bitencourt Silva</a>, <a href="https://www.linkedin.com/in/jorge-alves-marinho/">Jorge Alves Marinho</a>. 
 
-## Professores Orientadores:<a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
+## Professores Orientadores:<a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
 
 ## Descrição
 
