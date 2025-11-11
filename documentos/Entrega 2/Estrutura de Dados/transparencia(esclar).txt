@@ -1,0 +1,26 @@
+Código principal para a entrega de Algoritmos e Estrutura de Dados:
+
+Backend Completo, portanto, para a entrega é necessário os arquivos> src/routes/transparencia.js
+Ao conectado com o MySQL Workbench, o documento que for adicionado no transparência, irá para a pasta
+
+>> backend_instituto/uploads
+
+Para a análise e rodar o backend, após a instalação das
+dependências, no terminal (Ctrl + "), digitar: node src/server.js
+
+Dependências ---> npm install dotenv express cors mysql2
+
+A tabela no MySQL é a seguinte:
+
+CREATE TABLE transparencia (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  titulo VARCHAR(255) NOT NULL,
+  caminho_arquivo VARCHAR(255) NOT NULL,
+  data_upload TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+select * from transparencia;
+
+------------------------------------------------------------------------------------------------------
+
+Há um teste no próprio arquivo do backend para maior análise.
