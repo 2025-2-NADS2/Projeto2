@@ -1,0 +1,8 @@
+Servidor funcionando, conexão pelo GitHub;
+
+Servidor: institutoalma-bca3ewgchpgjb3dx.brazilsouth-01.azurewebsites.net
+
+GitHub do próprio backend: https://github.com/GuiNunes07/siteinstitutoalma
+
+------------------------------------
+
