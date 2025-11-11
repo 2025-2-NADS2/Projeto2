@@ -1,0 +1,7 @@
+Olá Professor! 
+Para acessar a tela de Administração, deve-se usar:
+login: admin
+senha: admin123
+Esse login e senha são fictícios. O banco tem essa função e criptografia, inclusive!
+Mas por conta do problema que a Azure está, não foi possível fazer tal integração.
+Na página de admin você pode adicionar os relatórios para o portal de transparência, ele atualiza automaticamente!
