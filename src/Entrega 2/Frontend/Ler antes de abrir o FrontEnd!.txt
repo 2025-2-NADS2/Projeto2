@@ -1,4 +1,7 @@
 Olá Professor! 
+Para rodar o projeto, deve-se seguir a instalação do npm, como foi ensinado em aula!
+Abra o terminal e execute: npm install
+depois: npm run dev
 Para acessar a tela de Administração, deve-se usar:
 login: admin
 senha: admin123
