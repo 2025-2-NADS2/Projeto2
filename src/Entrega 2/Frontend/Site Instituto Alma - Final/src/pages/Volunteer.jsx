@@ -48,7 +48,7 @@ const Volunteer = () => {
       <header className="header">
         <nav className="nav-container">
           <Link to="/" className="logo">
-            <img src="/img/LOGO_V.1_ALMA.png" alt="Instituto Alma" />
+            <img src="/img/LOGO_V.3_ALMA.png" alt="Instituto Alma" />
           </Link>
           <ul className="nav-menu">
             <li><Link to="/#sobre">Sobre Nós</Link></li>

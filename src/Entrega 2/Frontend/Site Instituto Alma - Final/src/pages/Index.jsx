@@ -127,7 +127,7 @@ const Index = () => {
       <header className="header">
         <nav className="nav-container">
           <a href="#home" className="logo">
-            <img src="/img/LOGO_V.1_ALMA.png" alt="Instituto Alma" />
+            <img src="/img/LOGO_V.3_ALMA.png" alt="Instituto Alma" />
           </a>
           <ul className="nav-menu">
             <li><a href="#sobre">Sobre Nós</a></li>
